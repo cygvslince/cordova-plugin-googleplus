@@ -30,7 +30,7 @@
   <!-- android -->
   <platform name="android">
 
-	<preference name="PLAY_SERVICES_VERSION" default="11.0.1"/>
+	<preference name="PLAY_SERVICES_VERSION" default="11.6.2"/>
     <framework src="com.google.android.gms:play-services-auth:$PLAY_SERVICES_VERSION" />
     <framework src="com.google.android.gms:play-services-identity:$PLAY_SERVICES_VERSION" />
 
